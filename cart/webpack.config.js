@@ -13,6 +13,7 @@ module.exports = {
             exposes: {
                 './CartShow': './src/index'
             },
+            shared:['faker'],
         }),
         new HtmlWebapackPlugin({
             template: './public/index.html'
