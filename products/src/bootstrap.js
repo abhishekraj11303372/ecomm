@@ -24,4 +24,5 @@ if(process.env.NODE_ENV === "development") {
     }
 }
 
+//situation 2 to rely on
 export {mount};
