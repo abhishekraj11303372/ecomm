@@ -1,3 +1,3 @@
 # ecomm
 
-Microfrontend basic understanding of communivcation
+Microfrontend basic understanding of communication
